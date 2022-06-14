@@ -1,9 +1,9 @@
 name: example_plugin
 version: ${version}
-main: com.example.voicechatplugin.ExamplePlugin
+main: me.walcriz.compasstalkie.Main
 api-version: ${bukkit_api_version}
-prefix: example_plugin
-authors: [ "Example Author" ]
-description: A Simple Voice Chat API plugin example
-website: https://example.com
+prefix: voicechat-compass-talkie
+authors: [ "Walcriz" ]
+description: Walkie-talkie voice chat plugin for minecraft :D
 depend: [ voicechat ]
+
