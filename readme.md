@@ -1,5 +1,4 @@
-# Simple Voice Chat API Bukkit Plugin Template
+# A simple Wakie-Talkie for the VoiceChatMod
+> This may be borken for all I know...
 
-This is an example template plugin for the [Simple Voice Chat Plugin API](https://github.com/henkelmax/simple-voice-chat/blob/1.18.2/api/readme.md) for Bukkit based servers.
-
-Feel free to use this for your projects.
+I think it was made for minecraft version 1.16 or 1.17 I can't really remember.
